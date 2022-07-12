@@ -1,1 +1,2 @@
-git config --global user.email
+git is awesome!
+new line
